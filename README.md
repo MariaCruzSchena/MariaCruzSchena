@@ -1,26 +1,28 @@
-<h1 align="center">Hi 👋, I'm Cruz</h1>
-<h3 align="center">A Fullstack Software Developer from Argentina.</h3>
+<h1 align="center">Hi there👋, I'm Cruz</h1>
+<h3 align="center">A Fullstack Software Developer from Argentina 🇦🇷</h3>
 
-🔭 I’m currently working on [The Broken Office Project](https://github.com/BrokenOffice)
+🔭 I’m currently working on [**The Broken Office Project**](https://github.com/BrokenOffice)
 
-🌱 I’m currently learning **Typescript, Next.js, and React Native.**
+🌱 I’m currently learning:
+- **Typescript**
+- **Next.js**
+- **React Native**
 
-👨‍💻 All of my projects are available at my github [https://github.com/MariaCruzSchena](https://github.com/MariaCruzSchena)
+👨‍💻 All of my projects are available at my github [**https://github.com/MariaCruzSchena**](https://github.com/MariaCruzSchena)
 
 📫 Reach me:
 -  via Linkedin **https://www.linkedin.com/in/mariacruzschena/**
--  via email mariacruzschena@gmail.com
+-  via Email **mariacruzschena@gmail.com**
 
 👩🏽‍💻 Stay tuned to check out my portfolio! 
 
 
+<br>
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/maria cruz schena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maria cruz schena" height="30" width="40" /></a>
-</p>
+<h3 align="left">My stack 🤓</h3>
 
-<h3 align="left">Programming languages:</h3>
+<h4 align="left">Programming languages:</h4>
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
@@ -30,7 +32,7 @@
 </a> 
 </p>
 
-<h3 align="left">Frontend:</h3>
+<h4 align="left">Frontend:</h4>
 <p align="left"> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -65,7 +67,7 @@
 
 </p>
 
-<h3 align="left">Backend:</h3>
+<h4 align="left">Backend:</h4>
 <p align="left"> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -92,7 +94,7 @@
 </p>
 
 
-<h3 align="left">Testing:</h3>
+<h4 align="left">Testing:</h4>
 <p align="left"> 
 <a href="https://mochajs.org" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> 
@@ -102,7 +104,7 @@
 </p>
 
 
-<h3 align="left">Documentation:</h3>
+<h4 align="left">Documentation:</h4>
 <p align="left"> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
@@ -110,7 +112,7 @@
 </p>
 
 
-<h3 align="left">Others</h3>
+<h4 align="left">Others</h4>
 <p align="left"> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
