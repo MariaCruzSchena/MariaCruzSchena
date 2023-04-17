@@ -7,7 +7,9 @@
 
 👨‍💻 All of my projects are available at my github [https://github.com/MariaCruzSchena](https://github.com/MariaCruzSchena)
 
-📫 Reach me via Linkedin **https://www.linkedin.com/in/mariacruzschena/**
+📫 Reach me:
+-  via Linkedin **https://www.linkedin.com/in/mariacruzschena/**
+-  via email mariacruzschena@gmail.com
 
 👩🏽‍💻 Stay tuned to check out my portfolio! 
 
