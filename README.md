@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Cruz</h1>
 <h3 align="center">A Fullstack Software Developer from Argentina.</h3>
 
-- 🔭 I’m currently working on [The Broken Office Project](https://github.com/BrokenOffice)
+🔭 I’m currently working on [The Broken Office Project](https://github.com/BrokenOffice)
 
-- 🌱 I’m currently learning **Typescript, Next.js, and React Native.**
+🌱 I’m currently learning **Typescript, Next.js, and React Native.**
 
-- 👨‍💻 All of my projects are available at my github [https://github.com/MariaCruzSchena](https://github.com/MariaCruzSchena)
+👨‍💻 All of my projects are available at my github [https://github.com/MariaCruzSchena](https://github.com/MariaCruzSchena)
 
-- 📫 Reach me via Linkedin **https://www.linkedin.com/in/mariacruzschena/**
+📫 Reach me via Linkedin **https://www.linkedin.com/in/mariacruzschena/**
 
-- 👩🏽‍💻 Stay tuned to check out my portfolio! 
+👩🏽‍💻 Stay tuned to check out my portfolio! 
 
 
 
