@@ -20,7 +20,7 @@
 <br>
 
 
-<h3 align="left">My stack 🤓</h3>
+<h3 align="left">My stack 📚</h3>
 
 <h4 align="left">Programming languages:</h4>
 <p align="left"> 
