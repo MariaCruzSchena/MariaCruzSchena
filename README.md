@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Cruz</h1>
-<h3 align="center">A Fullstack Software Developer from Argentina 🇦🇷</h3>
+<h3 align="center">A Full Stack Developer from Argentina 🇦🇷</h3>
 
 🔭 I’m currently working on [**The Broken Office Project**](https://github.com/BrokenOffice)
 
